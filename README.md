@@ -1,1 +1,2 @@
 使用易语言制作的简易浏览器，界面极简，无需安装 解压即用。占用硬盘/内存极小。有两个内核可供选择（例如/Chromium）。您可在github直接下载，也可以使用网盘下载。蓝奏云网盘：https://wwamz.lanzouu.com/b01eutitpi 密码：6rdt。中国移动云盘：链接： https://yun.139.com/shareweb/#/w/i/2xTrMfrf52Men 提取码：zb8o.百度网盘:https://pan.baidu.com/s/1CWeSJJBFuIkdUUrdz3viyA?pwd=6666 提取码: 6666。迅雷网盘:链接：https://pan.xunlei.com/s/VP3eNKxG4T6c-CoBoEheASDjA1# 提取码：8huy。极简浏览器作者：242100035@qq.com
+Gitte:https://gitee.com/k2421/Minimal_Browse
